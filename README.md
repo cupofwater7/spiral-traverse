@@ -1,5 +1,7 @@
+                                                Coding Interview Questions     
 # spiral-traverse
 
+Difficulty: medium
 
   Write a function that takes in an n x m two-dimensional array (that can be
   square-shaped when n == m) and returns a one-dimensional array of all the
